@@ -6,6 +6,9 @@
 <body>
 <h1>FORMULARZ REJESTRACYJNY BY PAWEL SADOWNIK - S9712@PJWSTK.EDU.PL</h1>
 <h2>Zarejestruj się lub zaloguj jeżeli już posiadasz konto</h2>
+<h3>Aby zalogowac sie jako admin i moc nadawac uprawnienia:</h3>
+<h3>login: admin</h3>
+<h3>haslo: admin</h3>
 
 <form id="form" class="float" action="/login" method="get">
     <table>
