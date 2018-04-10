@@ -1,0 +1,12 @@
+/home/pawel/Dokumenty/Nauka/Informatyka/Zadanie2/src/main/java/Repository/ApplicationRepository.java
+/home/pawel/Dokumenty/Nauka/Informatyka/Zadanie2/src/main/java/Model/Application.java
+/home/pawel/Dokumenty/Nauka/Informatyka/Zadanie2/src/main/java/Servlets/ListOfUsers.java
+/home/pawel/Dokumenty/Nauka/Informatyka/Zadanie2/src/main/java/Filter/PremiumFilter.java
+/home/pawel/Dokumenty/Nauka/Informatyka/Zadanie2/src/main/java/Servlets/Admin.java
+/home/pawel/Dokumenty/Nauka/Informatyka/Zadanie2/src/main/java/Repository/DummyApplicationRepository.java
+/home/pawel/Dokumenty/Nauka/Informatyka/Zadanie2/src/main/java/dbService/DatabaseService.java
+/home/pawel/Dokumenty/Nauka/Informatyka/Zadanie2/src/main/java/Servlets/Register.java
+/home/pawel/Dokumenty/Nauka/Informatyka/Zadanie2/src/main/java/Servlets/Login.java
+/home/pawel/Dokumenty/Nauka/Informatyka/Zadanie2/src/main/java/service/LoginService.java
+/home/pawel/Dokumenty/Nauka/Informatyka/Zadanie2/src/main/java/Filter/AdminFilter.java
+/home/pawel/Dokumenty/Nauka/Informatyka/Zadanie2/src/main/java/Servlets/Profile.java

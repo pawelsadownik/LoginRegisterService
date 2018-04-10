@@ -1,0 +1,12 @@
+Repository/DummyApplicationRepository.class
+Repository/ApplicationRepository.class
+Servlets/Admin.class
+service/LoginService.class
+Model/Application.class
+Servlets/Profile.class
+Servlets/ListOfUsers.class
+Filter/AdminFilter.class
+Servlets/Register.class
+Servlets/Login.class
+Filter/PremiumFilter.class
+dbService/DatabaseService.class
